@@ -38,5 +38,11 @@ The study consists of:<br>
           </ul>
         <li>5.6 Model selection - final</li>
         <li>5.7 Evaluation of the selected model</li>
+          <ul>
+            <li>5.7.1 ROC Curve</li>
+            <li>5.7.2 TPR & TNR - Threshold Curves</li>
+            <li>5.7.3 Precision(PPV)&NPV - Recall Curves</li>
+            <li>5.7.4 Accuracy - Threshold Curves</li>
+          </ul>
       </ul>
 
