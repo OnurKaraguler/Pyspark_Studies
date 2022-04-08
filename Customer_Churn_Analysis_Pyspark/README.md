@@ -1,6 +1,6 @@
-## Bank Marketing
+## Customer Churn Analysis
 
-Find the best strategies to improve for the next marketing campaign. How can the financial institution have a greater effectiveness for future marketing campaigns? In order to answer this, we have to analyze the last marketing campaign the bank performed and identify the patterns that will help us find conclusions in order to develop future strategies.
+Goal is to predict which customers are likely to leave the bank using customer data.
 
 The study consists of:<br>
   (1) Functions to be used<br>
@@ -27,14 +27,16 @@ The study consists of:<br>
             <li>5.3.4 UnivariateFeatureSelector</li>
           </ul>
         <li>5.4 Correlation of the features</li>
-        <li>5.5 Building ML models</li>
+        <li>5.5 One Hot Encoding</li>
+        <li>5.6 Split Dataframe</li>
+        <li>5.7 Over-sampling</li>
+        <li>5.8 Building ML models</li>
           <ul>
             <li>5.5.1 Logistic Regression</li>
             <li>5.5.2 Decision Tree Classification</li>
             <li>5.5.3 Random Forest Classification</li>
             <li>5.5.4 Naive Bayes Classification</li>
             <li>5.5.5 Gradient-Boosted Tree Classification</li>
-            <li>5.5.6 Linear Support Vector Machine</li>
           </ul>
         <li>5.6 Model selection - final</li>
         <li>5.7 Evaluation of the selected model</li>
